@@ -29,9 +29,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/marianne-dehasque/
-#  - name: Google Scholar
-#    icon: <i class="fa-brands fa-google"></i>
-#    link: https://scholar.google.be/citations?user=Jai0Uj0AAAAJ&hl=en
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-google-scholar"></i>
+    link: https://scholar.google.be/citations?user=Jai0Uj0AAAAJ&hl=en
 #  - name: Certifications
  #   icon: <i class="fa-solid fa-award"></i>
   #  link: ./certifications
