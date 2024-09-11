@@ -25,7 +25,7 @@ My research focuses on how evolutionary and demographic forces shape an organism
         .content-image {
             display: block; /* Ensures the image is a block-level element */
             margin: 20px auto; /* Adds margin and centers the image */
-            max-width: 80%; /* Sets a maximum width of 80% of the parent container */
+            max-width: 100%; /* Sets a maximum width of 100% of the parent container */
             height: auto; /* Maintains the aspect ratio */
             border-radius: 8px; /* Rounds the corners of the image */
         }
@@ -51,8 +51,8 @@ My research focuses on how evolutionary and demographic forces shape an organism
 <div class="content-container">
     <div class="content-text">
         <h3 style="margin-bottom:2px;">Genomics of feralization</h3>
-        and spread from their native range in the Fertile Crescent into Europe, and eventually the rest of the world, through multiple domestication and expansion waves. The free-roaming sheep native to Cyprus, Corsica, and Sardinia were introduced on the islands by humans over seven thousand years ago and are thought to represent the feral remnants of the earliest domesticated sheep. The long-term survival of these feral sheep indicates that these populations successfully adapted to the islands, providing the opportunity to study the genomic effects of rapidly changing selective pressures - from wild to tame to wild again - in three parallel systems.
-        br><br>
+        Sheep were domesticated around 10,000-12,000 years ago and spread from their native range into Europe, and eventually the rest of the world through multiple domestication and expansion waves. The free-roaming sheep native to Cyprus, Corsica, and Sardinia were introduced on the islands by humans over seven thousand years ago and are thought to represent the feral remnants of the earliest domesticated sheep. The long-term survival of these feral sheep indicates that these populations successfully adapted to the islands, providing the opportunity to study the genomic effects of rapidly changing selective pressures - from wild to tame to wild again - in three parallel systems.
+        <br><br>
 In this project, I am analyzing modern and ancient DNA from woolly and non-woolly sheep, herded, feral, and wild, to better understand the genomics of feralization. More specifically, I am exploring the demographic history of feral sheep and I am investigating the genomic signatures of selection as well as introgression between feral, wild, and domestic sheep lineages.
         <br><br>
         This project is part of my postdoc with <a href="https://gunther-lab.org/" target="_blank">Torsten Günther</a> at the Human Evolution program at Uppsala University, Uppsala, Sweden.
