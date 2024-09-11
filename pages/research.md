@@ -65,7 +65,7 @@ My research focuses on how evolutionary and demographic forces shape an organism
 <!-- Content with image and text side by side -->
 <div class="content-container">
     <!-- Example image, replace 'your-image.jpg' with the path to your image -->
-    <img src="/assets/img/mouflon.jpg" alt="Research Image" class="content-image">
+    <img src="/assets/img/Mouflon.jpg" alt="Research Image" class="content-image">
 
     <div class="content-text">
         <h3 style="margin-bottom:2px;">Genomics of feralization</h3>
