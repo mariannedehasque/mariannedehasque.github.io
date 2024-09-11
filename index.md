@@ -11,12 +11,10 @@ My name is **Marianne Dehasque** and I am an evolutionary biologist interested i
 
 <h3 style="margin-bottom:2px;">PhD in Zoology, Systematics, and Evolution, 2023 </h3>
 <h4 style="margin:0;">Stockholm University, Stockholm, Sweden</h4>
-Title: Palaeogenomic recontsturction of woolly mammoth evolutionary history and extinction dynamics
+Title: Palaeogenomic reconstruction of woolly mammoth evolutionary history and extinction dynamics
 <br>
-
 <h3 style="margin-bottom:2px;">MSc in Evolution and Behaviour Biology, 2016 </h3>
 <h4 style="margin:0;">University of Antwerp, Antwerp, Belgium</h4>
 <br>
-
 <h3 style="margin-bottom:2px;">BSc in Biology, 2014 </h3>
 <h4 style="margin:0;">University of Antwerp, Antwerp, Belgium</h4>
