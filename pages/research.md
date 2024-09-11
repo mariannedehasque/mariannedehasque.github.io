@@ -15,14 +15,6 @@ In this project, I am analyzing modern and ancient DNA from woolly and non-wooll
 <br><br>
 This project is part of my postdoc with <a href="https://gunther-lab.org/" target="_blank">Torsten Günther</a> at the Human Evolution program at Uppsala University, Uppsala, Sweden.
 
-
----
-layout: default
-permalink: /research
----
-
-**[Home](/) >> Research**
-
 ## Research:
 
 My research focuses on how evolutionary and demographic forces shape an organism's genome. I combine population genomics, conservation genomics, and palaeogenomics to investigate evolutionary processes through time and space.
