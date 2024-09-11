@@ -17,6 +17,9 @@ plugins:
   - jekyll-sitemap
 
 platforms:
+  - name: Research
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./research
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./assets/files/MarianneDehasqueResume.pdf
@@ -29,9 +32,6 @@ platforms:
 #  - name: Google Scholar
 #    icon: <i class="fa-brands fa-google"></i>
 #    link: https://scholar.google.be/citations?user=Jai0Uj0AAAAJ&hl=en
-  - name: Projects
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./projects
 #  - name: Certifications
  #   icon: <i class="fa-solid fa-award"></i>
   #  link: ./certifications
