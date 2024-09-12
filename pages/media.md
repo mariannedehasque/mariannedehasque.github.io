@@ -5,6 +5,6 @@ permalink: /media
 ---
 **[Home](/) >> Media**
 
-<p style="text-align: justify;">
-Placeholder.
-</p>
+## Media
+
+[![Image 1](/assets/img/thumbnail_lastmammoth.jpg)](/posts/lastmammoth.md)
