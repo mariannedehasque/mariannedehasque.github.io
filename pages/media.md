@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: default
+title: Media
 permalink: /media
 ---
 **[Home](/) >> Media**
