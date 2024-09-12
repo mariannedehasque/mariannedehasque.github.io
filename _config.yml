@@ -20,6 +20,9 @@ platforms:
   - name: Research
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./research
+  - name: Media
+    icon: <i class="fa-solid fa-globe"></i>
+    link: ./media
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./assets/files/MarianneDehasqueResume.pdf
