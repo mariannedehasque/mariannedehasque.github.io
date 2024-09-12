@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /lastmammoth
+permalink: /posts/lastmammoth/
 ---
 
 <p style="text-align: justify;">
