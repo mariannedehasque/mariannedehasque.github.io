@@ -1,5 +1,5 @@
 ---
-layout: default_mm
+layout: default
 permalink: /media
 ---
 **[Home](/) >> Media**
