@@ -7,4 +7,4 @@ permalink: /media
 
 ## Media
 
-[![Image 1](/assets/img/thumbnail_lastmammoth.jpg)](/posts/lastmammoth.md)
+[![Image 1](/assets/img/thumbnail_lastmammoth.jpg)](/posts/lastmammoth)
