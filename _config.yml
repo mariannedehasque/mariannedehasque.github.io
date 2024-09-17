@@ -19,13 +19,13 @@ plugins:
 platforms:
   - name: Research
     icon: <i class="fa-solid fa-file-code"></i>
-    link: ./research
+    link: https://mariannedehasque.github.io/research
   - name: Media
     icon: <i class="fa-solid fa-globe"></i>
-    link: ./media
+    link: https://mariannedehasque.github.io/media
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/MarianneDehasqueResume.pdf
+    link: https://mariannedehasque.github.io/assets/files/MarianneDehasqueResume.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/mariannedehasque
