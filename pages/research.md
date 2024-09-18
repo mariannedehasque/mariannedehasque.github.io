@@ -51,9 +51,9 @@ My research focuses on how evolutionary and demographic forces shape an organism
 <div class="content-container">
     <div class="content-text">
         <h3 style="margin-bottom:2px;">Genomics of feralization</h3>
-        The free-roaming sheep native to Cyprus, Corsica, and Sardinia were introduced by humans over seven thousand years ago and are thought to represent the feral remnants of the earliest domesticated sheep. The long-term survival of these feral sheep indicates that these populations successfully adapted to the islands, providing the opportunity to study the genomic effects of rapidly changing selective pressures - from wild to tame to wild again - in three parallel systems.
+        Feralization is the process by which domestic species return to a wild-like state. The free-roaming sheep native to Cyprus, Corsica, and Sardinia were introduced by humans over seven thousand years ago and are thought to represent the feral remnants of the earliest domesticated sheep. The long-term survival of these feral sheep indicates that these populations have successfully adapted to the islands, providing an opportunity to study the genomic effects of rapidly changing selective pressures — from wild to tame and back to wild — in three parallel systems.
         <br><br>
-In this project, I am analyzing modern and ancient DNA from woolly and non-woolly sheep, herded, feral, and wild, to better understand the genomics of feralization. More specifically, I am exploring the demographic history of feral sheep and I am investigating the genomic signatures of selection as well as introgression between feral, wild, and domestic sheep lineages.
+In this project, I am analyzing modern and ancient DNA from woolly and non-woolly sheep, both domestic, feral, and wild. More specifically, I am exploring the demographic history of feral sheep and investigating the genomic signatures of selection, as well as introgression between feral, wild, and domestic sheep lineages. This research will not only provide crucial insights into the early domestication of sheep, but also shed light on the understudied process of feralization.
         <br><br>
         This project is part of my postdoc with <a href="https://gunther-lab.org/" target="_blank">Torsten Günther</a> at the Human Evolution program at Uppsala University, Uppsala, Sweden.
     </div>
