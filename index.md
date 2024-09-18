@@ -12,7 +12,7 @@ When I am not at my desk, you can probably find me casting or chasing a plastic 
 
 ---
 
-## Education:
+## Career summary:
 
 <p style="text-align: justify;">
 <h3 style="margin-bottom:2px;">Postdoctoral researcher, 2023-2025 </h3>
@@ -21,8 +21,11 @@ Topic: Genomics of feralization in sheep
 <br><br>
 <h3 style="margin-bottom:2px;">PhD in Zoology, Systematics, and Evolution, 2018-2023 </h3>
 <h4 style="margin:0;">Stockholm University, Stockholm, Sweden</h4>
-Title: Palaeogenomic reconstruction of woolly mammoth evolutionary history and extinction dynamics
-<br><br>
+Topic: Reconstruction of woolly mammoth evolutionary history and extinction dynamics
+<br>
+<h3 style="margin-bottom:2px;">Jr. Data Architect, 2017-2018 </h3>
+<h4 style="margin:0;">Agilent Technologies, Niel, Belgium</h4>
+<br>
 <h3 style="margin-bottom:2px;">MSc in Evolution and Behaviour Biology, 2014-2016 </h3>
 <h4 style="margin:0;">University of Antwerp, Antwerp, Belgium</h4>
 <br>
