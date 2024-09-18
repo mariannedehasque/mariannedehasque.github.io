@@ -7,11 +7,8 @@ permalink: /media
 
 ## Media
 
-#[![Image 1](/assets/img/thumbnail_lastmammoth.jpg)](/posts/lastmammoth)
-
 <div class="content container">
     <div class="page">
-        <h1 class="page-title">Media</h1>
         <br />
         <div class="media-section">
             <table>
