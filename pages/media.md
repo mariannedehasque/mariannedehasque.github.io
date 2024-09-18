@@ -19,7 +19,7 @@ permalink: /media
                 <tbody>
                     <tr>
                         <td>
-                            <img src="/assets/img/thumbnail_lastmammoth.jpg" width="200" alt="Thumbnail of Woolly Mammoth Video" />
+                            <img src="/assets/img/thumbnail_lastmammoth.jpg" width="300" alt="Thumbnail of Woolly Mammoth Video" />
                         </td>
                         <td>
                             <em>The Strange DNA of the last mammoths</em> (2024)<br />
@@ -39,7 +39,7 @@ permalink: /media
                 <tbody>
                     <tr>
                         <td>
-                            <img src="/assets/img/LastWrangelMammoth.jpg" width="200" alt="Thumbnail of The Conversation article" />
+                            <img src="/assets/img/LastWrangelMammoth.jpg" width="300" alt="Thumbnail of The Conversation article" />
                         </td>
                         <td>
                             <em>Did inbreeding cause the woolly mammoth’s extinction? Our research suggests it was more sudden than that</em> (2024)<br />
