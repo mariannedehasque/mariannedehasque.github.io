@@ -15,14 +15,18 @@ When I am not at my desk, you can probably find me casting or chasing a plastic 
 ## Education:
 
 <p style="text-align: justify;">
-<h3 style="margin-bottom:2px;">PhD in Zoology, Systematics, and Evolution, 2023 </h3>
+<h3 style="margin-bottom:2px;">Postdoctoral researcher, 2023-2025 </h3>
+<h4 style="margin:0;">Uppsala University, Uppsala, Sweden</h4>
+Topic: Genomics of feralization in sheep
+<br><br>
+<h3 style="margin-bottom:2px;">PhD in Zoology, Systematics, and Evolution, 2018-2023 </h3>
 <h4 style="margin:0;">Stockholm University, Stockholm, Sweden</h4>
 Title: Palaeogenomic reconstruction of woolly mammoth evolutionary history and extinction dynamics
 <br><br>
-<h3 style="margin-bottom:2px;">MSc in Evolution and Behaviour Biology, 2016 </h3>
+<h3 style="margin-bottom:2px;">MSc in Evolution and Behaviour Biology, 2014-2016 </h3>
 <h4 style="margin:0;">University of Antwerp, Antwerp, Belgium</h4>
 <br>
-<h3 style="margin-bottom:2px;">BSc in Biology, 2014 </h3>
+<h3 style="margin-bottom:2px;">BSc in Biology, 2011-2014 </h3>
 <h4 style="margin:0;">University of Antwerp, Antwerp, Belgium</h4>
 </p>
 
