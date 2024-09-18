@@ -24,6 +24,7 @@ permalink: /media
                             <img src="/assets/img/thumbnail_lastmammoth.jpg" width="250" alt="Thumbnail of Woolly Mammoth Video" />
                         </td>
                         <td>
+                            <em>The Strange DNA of the last mammoths</em> (2024)<br />
                             <p>Stefan Milo made a whole YouTube video on the last woolly mammoth population, based on our recent paper.</p>
                         </td>
                     </tr>
