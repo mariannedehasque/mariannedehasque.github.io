@@ -1,22 +1,28 @@
-.media {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px; /* Space between images */
-  justify-content: center; /* Center the images */
+/* Adjusting main content and sidebar widths */
+section {
+  width: 750px;  /* Increase the width of the main content */
+  float: right;
+  padding-bottom: 30px;
 }
 
-.media a {
-  display: block; /* Ensures the link wraps around the image */
-  width: 200px; /* Adjust the width as needed */
+.sidebar {
+  width: 250px;
+  float: left;
+  position: fixed;
+  padding: 58px 0 50px 0;
 }
 
-.media-image {
-  width: 100%; /* Make images responsive */
-  height: auto;
-  border-radius: 5px; /* Optional: rounded corners */
-  transition: transform 0.3s; /* Smooth hover effect */
-}
+/* Responsive adjustments */
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: 760px;  /* Increase the wrapper width */
+  }
 
-.media-image:hover {
-  transform: scale(1.05); /* Slight zoom on hover */
+  .sidebar {
+    width: 180px;  /* Reduce sidebar width for smaller screens */
+  }
+
+  section {
+    width: 560px;  /* Increase main content width for smaller screens */
+  }
 }
