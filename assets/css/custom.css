@@ -1,12 +1,25 @@
-/* Ensure the table cells containing the images have the same width */
-.media-section td:first-child {
-    width: 250px; /* Set this to match the max-width of the images */
-    vertical-align: top; /* Aligns the content of the cell to the top */
+.media-section {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: flex-start; /* Ensures image and text stay aligned in a row */
 }
 
-.media-section img {
-    width: 100%;         /* Makes the image take up 100% of its container's width */
-    max-width: 100%;     /* Ensures the image fills the container width */
-    height: auto;        /* Adjusts height automatically based on width */
-    object-fit: contain; /* Ensures the image fits while maintaining aspect ratio */
+.media-item {
+    display: flex;
+    flex-direction: row; /* Ensures image and text are in the same row (default behavior) */
+    width: 100%;
+}
+
+.media-item img {
+    width: 200px; /* Fixed width for all images */
+    height: auto; /* Keeps the aspect ratio */
+    object-fit: contain; /* Keeps the image aspect ratio without distortion */
+    margin-right: 20px; /* Adds space between the image and the text */
+}
+
+.media-description {
+    flex-grow: 1; /* Ensures the text container takes up the remaining space */
+    display: flex;
+    flex-direction: column; /* Allows the text to stack vertically inside this column */
+    justify-content: center; /* Optional: vertically centers the text relative to the image */
 }
