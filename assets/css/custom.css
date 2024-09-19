@@ -23,3 +23,23 @@
     flex-direction: column; /* Allows the text to stack vertically inside this column */
     justify-content: center; /* Optional: vertically centers the text relative to the image */
 }
+
+@media print, screen and (max-width: 1200px) {
+  .wrapper {
+    width: 610px;
+  }
+
+  .sidebar {
+    width: 200px;
+    height: calc(100vh - 50px);  
+  }
+
+  section {
+    width: 575px;
+  }
+
+  .sidebar-footer {
+    width: auto;
+    padding-bottom: inherit;
+  }
+}
