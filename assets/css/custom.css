@@ -1,6 +1,6 @@
 .media-section img {
     width: 300px;
-    height: 200px;
+    height: auto;
     object-fit: cover;
 }
 
