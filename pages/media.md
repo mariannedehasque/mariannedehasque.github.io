@@ -12,7 +12,7 @@ permalink: /media
         <img src="/assets/img/thumbnail_lastmammoth.jpg" alt="Thumbnail of Woolly Mammoth Video" />
         <div class="media-description">
             <em>The Strange DNA of the last mammoths</em><br />
-            <p><a href="https://www.stefanmilo.com/">Stefan Milo</a> made an entertaining and informative video about our genomic work on the last woolly mammoth population. Watch it <a href="https://www.youtube.com/watch?v=mf1HWjUJPZM">here</a></p>
+            <p><a href="https://www.stefanmilo.com/">Stefan Milo</a> made a video about our genomic work on the last woolly mammoth population. Watch it <a href="https://www.youtube.com/watch?v=mf1HWjUJPZM">here</a></p>
         </div>
     </div>
 </div>
