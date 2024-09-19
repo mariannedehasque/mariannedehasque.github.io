@@ -26,7 +26,7 @@
 
 @media print, screen and (max-width: 1200px) {
   .wrapper {
-    width: 810px;
+    width: 910px;
   }
 
   .sidebar {
@@ -35,7 +35,7 @@
   }
 
   section {
-    width: 575px;
+    width: 720px;
   }
 
   .sidebar-footer {
