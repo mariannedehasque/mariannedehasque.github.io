@@ -47,7 +47,7 @@ My research focuses on how evolutionary and demographic forces shape an organism
 </head>
 <body>
 
-<!-- Content with text and image below -->
+<!-- Genomics of feralization -->
 <div class="content-container">
     <div class="content-text">
         <h3 style="margin-bottom:2px;">Genomics of feralization</h3>
@@ -60,6 +60,20 @@ In this project, I am analyzing modern and ancient DNA from woolly and non-wooll
 
     <!-- Image placed below the text -->
     <img src="assets/img/Mouflon.jpg" alt="Research Image" class="content-image">
+</div>
+
+<!-- New Section: Woolly mammoth extinction dynamics -->
+<div class="content-container">
+    <div class="content-text">
+        <h3>Woolly mammoth extinction dynamics</h3>
+        Small populations are more susceptible to environmental and demographic events, but the extent to which genetic processes contribute to extinction risk has remained largely unexplored. During my PhD, I used the woolly mammoth as a model to study evolutionary processes in small and declining populations. The last mammoth population lived on Wrangel Island, a small mountainous island that was cut off from the Siberian coast due to rising sea levels. The population went extinct after about 6,000 years in isolation, marking the end of the species.
+        <br><br>
+        We generated whole genomes of individuals spanning the last 50,000 years of the species' extinction to study extinction dynamics in real-time. This research was conducted at the Centre for Palaeogenetics, which is a joint venture between Stockholm University and the Swedish Museum of Natural History and was supervised by Love Dalén. If you are interested, you can find my thesis here: 
+        <a href="https://su.diva-portal.org/smash/record.jsf?pid=diva2%3A1730674&dswid=6466" target="_blank">My thesis (link)</a>.
+    </div>
+
+    <!-- Image placed below the new text -->
+    <img src="assets/img/MammothTusk.jpg" alt="A woolly mammoth tusk" class="content-image">
 </div>
 
 </body>
