@@ -52,12 +52,6 @@
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.wrapper > section {
-    max-width: 1000px;   /* Increase this value as you like */
-    margin: 0 auto;      /* Center the section horizontally */
-    padding: 0 40px;     /* Optional: add horizontal padding */
-    width: 100%;
-}
 
 @media screen and (max-width: 700px){
   .box {
