@@ -23,7 +23,7 @@ platforms:
   - name: Media
     icon: <i class="fa-solid fa-globe"></i>
     link: https://mariannedehasque.github.io/media
-  - name: Résumé
+  - name: CV
     icon: <i class="fa-solid fa-file-lines"></i>
     link: https://mariannedehasque.github.io/assets/files/MarianneDehasqueResume.pdf
   - name: GitHub
