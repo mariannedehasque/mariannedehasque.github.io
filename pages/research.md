@@ -47,6 +47,21 @@ My research focuses on how evolutionary and demographic forces shape an organism
 </head>
 <body>
 
+<!-- Albatross re-collection project -->
+<div class="content-container">
+    <div class="content-text">
+        <h3 style="margin-bottom:2px;">Rapid evolution in delicate round herring</h3>
+        The Research Vessel (R/V) Albatross amassed an extensive collection of fish specimens in the Philippines from 1907 to 1909. In a stroke of genious (or sheer luck?), the samples were preserved in highly concentrated rum, resulting in well-preserved DNA even after more than a century.
+        <br><br>
+One of the fish species extensively collected during this expedition was the delicate round herring (Spratelloides delicatulus). This species has a short generation time, large population size, and evidence for local adaptation, making it an ideal model to study the mechanisms of genomic change over space and time, and the relationship between these two processes. In this project, I am analyzing genomes from historical and contemporary delicate round herrings from multiple locations to study the genomic architecture of rapid evolution.
+        <br><br>
+        This study is part of my postdoc University of California, Santa Cruz at the  <a href="https://globalchange.sites.ucsc.edu/" target="_blank">Global Change Research Group</a> with Malin Pinsky.
+    </div>
+
+    <!-- Image placed below the text -->
+    <img src="assets/img/Mouflon.jpg" alt="Research Image" class="content-image">
+</div>
+
 <!-- Genomics of feralization -->
 <div class="content-container">
     <div class="content-text">
@@ -62,7 +77,7 @@ In this project, I am analyzing modern and ancient DNA from woolly and non-wooll
     <img src="assets/img/Mouflon.jpg" alt="Research Image" class="content-image">
 </div>
 
-<!-- New Section: Woolly mammoth extinction dynamics -->
+<!-- Woolly mammoth extinction dynamics -->
 <div class="content-container">
     <div class="content-text">
         <h3>Woolly mammoth extinction dynamics</h3>
