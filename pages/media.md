@@ -6,6 +6,15 @@ permalink: /media
 **[Home](/) >> Media**
 
 ## Media
+<div class="media-section">
+    <div class="media-item">
+        <img src="/assets/img/misseniswenselijk.jpeg" alt="Thumbnail of Missen is Wenselijk podcast" />
+        <div class="media-description">
+            <em>Missen is Wenselijk</em><br />
+            <p>I participated in a Belgian podcast series to talk about my favorite mammoth, and all the blunders I made analyzing them. Listen <a href="https://open.spotify.com/episode/7gRzCjwYNoh1avlfssWZcN?si=qDOjm8pxSGutglACClwS2A">here</a> <em>(Dutch only)</em></p>
+        </div>
+    </div>
+</div>
 
 <div class="media-section">
     <div class="media-item">
