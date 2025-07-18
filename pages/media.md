@@ -11,8 +11,9 @@ permalink: /media
         <img src="/assets/img/misseniswenselijk.jpeg" alt="Thumbnail of Missen is Wenselijk podcast" />
         <div class="media-description">
             <em>Missen is Wenselijk</em><br />
-            <p>I participated in a Belgian podcast series to talk about my favorite mammoth, and all the blunders I made analyzing them. Listen <a href="https://open.spotify.com/episode/7gRzCjwYNoh1avlfssWZcN?si=qDOjm8pxSGutglACClwS2A">here</a> <em>(Dutch only)</em></p>
-        </div>
+            <p>
+            I participated in a Belgian podcast series to talk about my favorite mammoth, and all the blunders I made analyzing them. And in case you were wondering, yes, that is a drawing of <a href="https://palaeogenetics.com/people/36-2/">Love Dalén</a> licking a mammoth tusk. Listen <a href="https://open.spotify.com/episode/7gRzCjwYNoh1avlfssWZcN?si=qDOjm8pxSGutglACClwS2A">here</a> <em>(Unfortunately in Dutch only)</em>
+            </p>    </div>
     </div>
 </div>
 
