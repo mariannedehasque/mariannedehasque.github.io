@@ -59,7 +59,7 @@ One of the fish species extensively collected during this expedition was the del
     </div>
 
     <!-- Image placed below the text -->
-    <img src="assets/img/Mouflon.jpg" alt="Research Image" class="content-image">
+    <img src="assets/img/albatross-1.png" alt="Research Image" class="content-image">
 </div>
 
 <!-- Genomics of feralization -->
