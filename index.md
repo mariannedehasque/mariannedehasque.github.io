@@ -4,10 +4,10 @@ layout: default
 ## About Me:
 
 <p style="text-align: justify;">
-My name is <strong>Marianne Dehasque</strong> and I am an evolutionary biologist interested in understanding how evolutionary and demographic processes shape an organism's genome. My research involves analyzing time-series data from historical and/or ancient samples. Currently, I am a postdoctoral researcher at Uppsala University, studying the genomics of feralization in sheep.
+My name is <strong>Marianne Dehasque</strong> and I am an evolutionary biologist interested in understanding the evolutionary and demographic processes shaping biodiversity. My research focuses on combining temporally sampled genomes with laboratory and bioinformatic methods to study biodiversity changes through time and space. Currently, I am a postdoctoral researcher at UC Santa Cruz, USA, studying the genomic architecture of rapid evolution in fish.
   <br>
   <br>
-When I am not at my desk, you can probably find me casting or chasing a plastic disc. I am an enthusiastic ultimate frisbee player.
+When I am not at my desk, you can probably find me near the closest coffee machine or chasing a plastic (ultimate frisbee) disc.
 </p>
 
 ---
